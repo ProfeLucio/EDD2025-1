@@ -8,7 +8,7 @@ Escriba un programa en C que implemente los conceptos aprendidos en clase sobre 
 - **Dinero recaudado** en millones de dólares (por ejemplo: `3.2`, `4`, `0.8`).
 
 **Reglas:**
-- Si dos películas tienen el mismo año de realización, la nueva película deberá ubicarse a la izquierda de la anterior en el árbol.
+- Si dos o más películas tienen el mismo año de realización, la nueva película deberá ubicarse a la izquierda de la anterior en el árbol.
 
 ## Funcionalidades del programa
 
